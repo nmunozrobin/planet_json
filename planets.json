@@ -1,0 +1,39 @@
+{
+"data": [
+{
+"title": "Mars",
+"image": "https://github.com/sergiandreplace/flutter_planets_tutorial/blob/master/assets/img/mars.png?raw=true",
+"galaxy_name": "Via Lactea",
+"location": 2.9,
+"gravity": 3.0
+},
+{
+"title": "Earth",
+"image": "https://github.com/sergiandreplace/flutter_planets_tutorial/blob/master/assets/img/earth.png?raw=true",
+"galaxy_name": "Via Lactea",
+"location": 2.9,
+"gravity": 3.0
+},
+{
+"title": "Mercury",
+"image": "https://github.com/sergiandreplace/flutter_planets_tutorial/blob/master/assets/img/mercury.png?raw=true",
+"galaxy_name": "Via Lactea",
+"location": 2.9,
+"gravity": 3.0
+},
+{
+"title": "Moon",
+"image": "https://github.com/sergiandreplace/flutter_planets_tutorial/blob/master/assets/img/moon.png?raw=true",
+"galaxy_name": "Via Lactea",
+"location": 2.9,
+"gravity": 3.0
+},
+{
+"title": "Neptune",
+"image": "https://github.com/sergiandreplace/flutter_planets_tutorial/blob/master/assets/img/neptune.png?raw=true",
+"galaxy_name": "Via Lactea",
+"location": 2.9,
+"gravity": 3.0
+}
+]
+}
