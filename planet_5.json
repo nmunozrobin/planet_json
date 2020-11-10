@@ -1,0 +1,8 @@
+{
+    "name": "Earth",
+    "galaxy_name": "Milkyway Galaxy",
+    "distance": 0,
+    "gravity": 9.8,
+    "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. About 29% of Earths surface is land consisting of continents and islands. The remaining 71% is covered with water, mostly by oceans but also lakes, rivers and other fresh water, which together constitute the hydrosphere. Much of Earths polar regions are covered in ice. Earths outer layer is divided into several rigid tectonic plates that migrate across the surface over many millions of years. Earth's interior remains active with a solid iron inner core, a liquid outer core that generates Earth's magnetic field, and a convecting mantle that drives plate tectonics.",
+    "booking_price": 2.8
+}
